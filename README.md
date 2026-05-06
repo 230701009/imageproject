@@ -44,3 +44,8 @@ The distance between these two fingers is calculated and mapped to screen bright
 - Fingers farther apart → Higher brightness
 
 ---
+gesture-brightness-control/
+│
+├── gesture_brightness.py
+├── hand_landmarker.task
+├── README.md
